@@ -38,7 +38,7 @@ Machine Learning 🤖 (Supervised Learning Model)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/disease-prediction.git
+git clone https://github.com/RKRanjithkumarRK/Health-Scan/tree/main
 
 Navigate to the project directory:
 
